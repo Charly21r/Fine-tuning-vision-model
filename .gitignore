@@ -2,3 +2,4 @@
 .venv/
 data/PetImages/Cat/*
 data/PetImages/Dog/*
+data/cats-vs-dogs/*
