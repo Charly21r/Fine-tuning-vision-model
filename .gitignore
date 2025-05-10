@@ -3,3 +3,4 @@
 data/PetImages/Cat/*
 data/PetImages/Dog/*
 data/cats-vs-dogs/*
+vgg16_finetuned.pth
